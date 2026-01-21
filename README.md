@@ -1,0 +1,1 @@
+# ai_hackathon_samarkand_safevision
