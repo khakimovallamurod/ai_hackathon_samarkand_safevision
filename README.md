@@ -1,1 +1,1 @@
-# ai_hackathon_samarkand_safevision
+# worker_detection
